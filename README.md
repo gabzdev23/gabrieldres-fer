@@ -1,4 +1,4 @@
-# Hey 👋 Soy Gabriel
+# Hey Soy Gabriel 👋
 
 Soy un apasionado del desarrollo web, me adentre en este mundo hace mas de 2 años y me intereso mucho el lado del diseño y desarrollo de interfaces web, por ello mi fuerte es trabajar del lado del **Frontend**.
 

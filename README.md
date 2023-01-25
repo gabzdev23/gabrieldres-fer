@@ -15,7 +15,7 @@ Aunque mi especialidad es el frontend tambien e creado APIs y proyectos CRUD uti
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieldres-fer&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Lenguajes que utilizo en los proyectos
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldres-fer&layout=compact&theme=tokyonight&hide=html,astro)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldres-fer&layout=compact&theme=tokyonight&hide=html,astro,shell)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Redes sociales
 [<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
